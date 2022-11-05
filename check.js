@@ -25,16 +25,16 @@ function handleLogin() {
     {
         "chucvu": "giangvien",
         "username": "lhhuy1",
-        "password": "123"
+        "password": "1005"
     },
     {
         "chucvu": "giaovu",
         "username": "lhhuy2",
-        "password": "123"
+        "password": "1005"
     },
     {
         "chucvu":"sinhvien",
         "username":"lhhuy3",
-        "password":"123"
+        "password":"1005"
     }
    ]
